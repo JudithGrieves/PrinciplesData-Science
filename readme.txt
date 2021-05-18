@@ -1,7 +1,9 @@
-City, University of London
-Data Science MSc.
+# Principle of Data Science
+City, University of London  
+Data Science MSc  
+Judith Grieves  
+Principles of Data Science module coursework  
 
-Code and report submitted for Principles of Data Science assignment
 
 Submitted version with 2 minor report corrections
 
